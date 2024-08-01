@@ -9,7 +9,7 @@ Extensive documentation on use can be found there.
 An example of how to call the API can be found within AI4Green in Webapp/sources/services/retrosyntheis/predictive_chemistry/conditions_api
 
 
-Models must be downloaded prior to use. This can be done from the script inside this repository.
+Models must be downloaded prior to use. This can be done from the script inside the repository.
 
 
 Docker image can be found at: https://hub.docker.com/repository/docker/ai4greeneln/condition_prediction/general
